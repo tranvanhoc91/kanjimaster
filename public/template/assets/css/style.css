@@ -1,0 +1,167 @@
+/*================================================================================
+	Item Name: Robust - Responsive Admin Theme
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+html body {
+    height: 100%;
+    background-color: #cac4c4;
+}
+
+
+.card-no {float:left;}
+.card-title {padding-left : 20px;float:left;font-size: 1.1rem;}
+
+.img-fluid{
+	
+}
+
+.card-block {
+    padding: 0.5rem;
+    clear: both;
+}
+
+.border-top-blue-grey.border-top-lighten-5 {
+	clear: both;
+}
+
+.card-header{
+    padding: 1rem 0.5rem 0.5rem 1rem;
+}
+
+
+.card-footer {
+    padding: 0rem 0rem 0.5rem 0.5rem;
+}
+
+
+
+
+
+
+.card-block {
+    padding: 0.5rem;
+    clear: both;
+}
+
+.card .card-title {
+    float: left;
+}
+
+.stroke-part li {
+    padding-left: 25px;
+}
+
+.kanji-card-mean{
+	width: 50%;
+	float: left;
+}
+
+.kanji-card-thumb{
+	width: 50%;
+	float: right;
+}
+
+.card-block .kanji-title{
+	font-size: 5rem;
+	color: #000;
+}
+
+.card-block .kanji-title a{
+	font-size: 5rem;
+	color: #000;
+}
+
+
+.card-block .kanji-title a:HOVER{
+	color: blue;
+}
+
+
+.card-block .kanji-onyomi{
+    font-size: 10px;
+    text-align: center;
+    margin-top: -10px;
+    padding-left: 30px;
+    font-weight: normal;
+}
+
+.card-block .kanji-kunyomi{
+    font-size: 10px;
+    text-align: center;
+    margin-top: -10px;
+    font-weight: normal;
+}
+.kanji-remember{
+	font-size: 12px;
+    text-align: left;
+    font-style: italic;
+    font-weight: normal;
+    color: #787978;
+    line-height: 20px;
+}
+
+.menu-item-selected{
+	color: #4fc1e9;
+	font-weight: bold;
+}
+
+
+.table-bordered {
+    text-align: center;
+}
+
+.table-bordered  a {
+    font-size: 22px;
+    color: #0e9bd0;
+    font-weight: bold;
+    
+}
+
+
+.table-bordered a:HOVER {
+	color: #fff;
+}
+
+.table-bordered span {
+}
+
+.table-bordered tbody tr td:HOVER {
+	background: #ffce54;
+}
+
+a.tag-title{
+	color: #000;
+	font-weight: bold;
+}
+
+a.tag-title:HOVER{
+	color: #00BCD4 ;
+}
+
+
+div.tag-title{
+	padding-top: 6px;	
+}
+
+div.bookmark-selection{
+	margin-bottom: 10px;
+	float: right;
+
+}
+
+
+.btn-item-selected{
+	background-color: #FFCE54;
+}
+
+
+
+
